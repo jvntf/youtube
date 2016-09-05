@@ -1,0 +1,316 @@
+html{
+    font-family: Arial;
+    background: #eeeeee;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+header {
+	background: white;
+	width: 100%;
+	height: 60px;
+    position: fixed;
+    margin: -10px -6px;
+    z-index: 2;
+}
+
+.nav{
+    display: inline-block;
+    margin: 7.5px;
+    vertical-align: middle;
+    
+    
+}
+button{
+    height: 27px;
+    background: #eeeeee;
+    border: solid #aaaaaa;
+    border-width: 1.5px;
+    border-radius: 3px;
+    font-size: 10px;
+    padding: 0px 10px;
+}
+
+
+
+
+#nav_button {
+    border-color: black;
+    border: 2px; 
+    margin-left:35px;
+    margin-right: 10px;
+   
+}
+#line {
+    width: 10px;
+    height: 1px;
+    background: #000000;
+    display: block;
+    margin: 2px;
+}
+
+
+#logo{
+    margin: auto 10px;
+    width:50px;
+    
+}
+
+
+#search_bar{
+    margin-left: 75px;
+    margin-right: 0px;
+    width: 500px;
+    height: 20px;
+    display: inline-block;
+    border: solid #bbbbbb;
+    border-width: 1px;
+    border-radius: 2px;
+}
+#search_button{
+    display: inline-block;
+    margin-left: 0px;
+    color:#444444;
+}
+
+
+#account_buttons {
+    float: right;
+}
+
+#sign_in{
+    background-color: #009ACD;
+    color: white;
+}
+
+#upload{
+    color:#444444;
+}
+
+
+
+#page {
+    margin: 20px 150px;
+    width: auto;
+    height: 1000px;
+   /* background: #EEEEEE;*/
+}
+#spacer{
+    width:100%;
+    height:50px;
+}
+
+
+#content{
+    margin: 0 0;
+    width: 560px;
+    display: inline-block;
+}
+#video_player {
+
+    height: 315px;
+    /*background: #555555;*/
+}
+#title {
+    background: white;
+    margin: 20px 0;
+    padding:15px;
+}
+
+#video_title{
+    font-size:22px;
+    height: 40%;
+    /*border: solid;
+    border-width: 0.5px;*/
+}
+
+#video_details{
+    height: 75px;
+    float: left;
+    position: relative;
+    /*border: solid;
+    border-width: 0.5px;*/
+}
+#profile_picture{
+    display: inline-block;
+}
+#account_info{
+    display: inline-block;
+    margin-left: 100px;
+    position: absolute;
+    bottom: 0;
+    
+}
+#profile_name{
+    font-size: 14px;
+    width:100%;
+    display: inline-block;
+    position: relative;
+    bottom: 0;
+    color: #444444
+}
+#subscribe_button{
+    display: inline-block;
+    font-size: 13px;
+    color: white;
+    background: #e30d00;
+    border: none;
+    margin-top: 7px
+}
+
+
+#views{
+    clear: both;
+
+   font-size: 18px;
+ 
+    /*border: solid;
+    border-width: 0.5px;*/
+    text-align: right;
+    border-bottom: solid #dddddd;
+    border-width: 1.5px;
+    margin-bottom: 5px;
+}
+
+#like_share{
+    clear: both;
+    font-size: 15px;
+    color: #999999
+    /*border: solid;
+    border-width: 0.5px;*/
+}
+.share{
+    display: inline-block;
+    margin-right: 10px;
+}
+.like_dislike{
+    float: right;
+    display: inline-block;
+}
+.like_dislike button{
+    background: #444444;
+    border: none;
+    color: white;
+    font-weight: bold;
+}
+
+#description {
+    height: 100px;
+    background: white;
+    padding: 1px 10px;
+}
+
+#description p{
+    font-size: 13px;
+}
+#description strong{
+    font-size: 15px;
+    color: #333333;
+}
+#desc_text{
+    height: 60%;
+}
+#show_more {
+    height : ;
+    border-top: 0.5px solid #bbbbbb;
+    text-align: center;
+    font-size: 11px;
+    
+}
+
+
+#sidebar {
+    width: 450px;
+    height: 1000px;
+    float: right;
+    display: inline-block;
+    background: white;
+  
+}
+
+
+
+#up_next {
+    height: 150px;
+    /*background: #BBBBBB;*/
+    padding: 10px;
+}
+
+
+#related {
+    height: auto;
+    /*background: #BBBBBB;*/
+    padding: 10px;
+}
+
+.suggested_video {
+    height: 110px;
+    width: 430px;
+}
+
+.suggested_thumbnail{
+    width: 168px;
+    height: 100%;
+    float: left;
+}
+
+.suggested_text{
+    float: right;
+    width: 240px;
+}
+
+.suggested_title{
+   /* border: 0.5px solid;*/
+    font-weight:bold;
+}
+
+.suggested_details{
+    /* border: 0.5px solid;*/
+    font-size: 12px;
+    float: left;
+    display: inline-block;
+    color: #444444;
+    font-weight:500;
+}
+
+.new{
+     border: 0.5px solid #bbbbbb;
+    display: inline-block;
+    font-size:12px;
+    margin: 12px 6px;
+    padding: 1px 3px;
+    
+  
+  
+}
+
+footer{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
