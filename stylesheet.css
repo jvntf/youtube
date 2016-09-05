@@ -91,7 +91,7 @@ button{
 
 
 #page {
-    margin: 20px 150px;
+    margin: 20px 120px;
     width: auto;
     height: 1000px;
    /* background: #EEEEEE;*/
@@ -221,7 +221,7 @@ button{
 
 
 #sidebar {
-    width: 450px;
+    width: auto;
     height: 1000px;
     float: right;
     display: inline-block;
